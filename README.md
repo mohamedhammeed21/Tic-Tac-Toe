@@ -10,4 +10,4 @@ simple tictactoe app
 - work for web browsers only
 
 # link
-* [TicTacToe](https://silver-medovik-b3bc7d.netlify.app/)
+* [TicTacToe](https://magnificent-paletas-3802ac.netlify.app/)
